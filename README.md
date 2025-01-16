@@ -22,15 +22,15 @@ Clone the git and run the App in Xcode
 ___
 
 #### - After running it in your Mobile Device or Virtual Device open the app:
-    ![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 13 02 34](https://github.com/user-attachments/assets/1d90710d-b06f-415d-bdd4-75eca9c56496)
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 13 02 34](https://github.com/user-attachments/assets/1d90710d-b06f-415d-bdd4-75eca9c56496)
 
 #### - This is how it will look:
-    ![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 13 03 42](https://github.com/user-attachments/assets/4dfddeec-8618-4cbc-9a47-9fa398d11f91)
-    ![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 13 03 59](https://github.com/user-attachments/assets/aab073f7-6a2c-402a-9151-ecbf73ff197e)
-    ![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 13 04 04](https://github.com/user-attachments/assets/a130b1c2-6a14-41b1-96bc-82f404b20cdb)
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 13 03 42](https://github.com/user-attachments/assets/4dfddeec-8618-4cbc-9a47-9fa398d11f91)
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 13 03 59](https://github.com/user-attachments/assets/aab073f7-6a2c-402a-9151-ecbf73ff197e)
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 13 04 04](https://github.com/user-attachments/assets/a130b1c2-6a14-41b1-96bc-82f404b20cdb)
 
 #### - all the images and videos will load up:'
-    ![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 13 04 22](https://github.com/user-attachments/assets/81ec6d78-83d7-48ed-980b-23da97498cc2)
+![Simulator Screenshot - iPhone 16 Pro - 2025-01-16 at 13 04 22](https://github.com/user-attachments/assets/81ec6d78-83d7-48ed-980b-23da97498cc2)
 
 #### - Sort the media:
     * Swipe left to Archive the item to delete later
